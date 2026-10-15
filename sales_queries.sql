@@ -5,10 +5,10 @@
 -- 1. View all sales data from the store
 SELECT * FROM global_sales;
 
--- 2. Filter specific transactions for high-demand smartphones
+-- 2. Filter specific transactions for high-demand laptop
 SELECT category, SUM(sales_amount) 
 FROM global_sales 
-WHERE category = 'Smartphones';
+WHERE category = 'Laptop';
 
 -- 3. Find top performing regional store locations
 SELECT store_location, COUNT(*) 
