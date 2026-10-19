@@ -16,12 +16,11 @@ Analyzes weekly sales performance for a global electronics retail store to track
 ---
 
 ## 📊 Project Artifacts
-- 📄 **[Download Full PDF Report](Global_Electronics_Retail_Sales_Dashboard.pdf)**
+- 📄 **[Download Full PDF Report](Global%20Electronics%20Retail%20Sales%20Analytics%20-%20Sheet1.pdf)**
 - 💻 **SQL Queries:** Available in `sales_queries.sql`
 
 ### Dashboard Preview
-![Sales Dashboard Preview](dashboard_preview.png)
-
+![Sales Dashboard Preview](Screenshot%202026-10-15%20123531.png)
 ---
 
 ## 💡 Key Findings & Recommendations
