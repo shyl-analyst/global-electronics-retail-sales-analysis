@@ -20,7 +20,7 @@ To analyze the sales dataset, I used SQL queries to filter and summarize large a
 -- Example: Finding total sales revenue for a specific category
 SELECT category, SUM(sales_amount) 
 FROM global_sales 
-WHERE category = 'Smartphones';
+WHERE category = 'laptop';
 ```
 
 ## 💡 Key Findings & Recommendations
